@@ -75,7 +75,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-mailform": false,
-    "witsec-white-label": false,
+    "witsec-white-label": true,
     "publishChangesOnly": false,
     "mbrsiteDomain": "anphabe",
     "witsec-language": false
@@ -85,7 +85,7 @@
       "settings": {
         "main": true,
         "title": "Giải pháp Thương hiệu Nhà tuyển dụng &amp; Nơi làm việc hạnh phúc | Anphabe",
-        "meta_descr": "Anphabe  Anphabe – Công ty tư vấn tiên phong về các giải pháp toàn diện xây dựng Nguồn nhân lực Hạnh phúc và Thương hiệu Nhà tuyển dụng hấp dẫn ",
+        "meta_descr": "Anphabe – Công ty tư vấn tiên phong về các giải pháp toàn diện xây dựng Nguồn nhân lực Hạnh phúc và Thương hiệu Nhà tuyển dụng hấp dẫn ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1677,7 +1677,7 @@
     "lienhe.html": {
       "settings": {
         "title": "Liên hệ | Anphabe",
-        "meta_descr": " Anphabe  Anphabe – Công ty tư vấn tiên phong về các giải pháp toàn diện xây dựng Nguồn nhân lực Hạnh phúc và Thương hiệu Nhà tuyển dụng hấp dẫn ",
+        "meta_descr": " Anphabe – Công ty tư vấn tiên phong về các giải pháp toàn diện xây dựng Nguồn nhân lực Hạnh phúc và Thương hiệu Nhà tuyển dụng hấp dẫn ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
