@@ -2460,11 +2460,6 @@ a {
 .cid-so1bPLjU2r .nav-item .nav-link:hover {
   color: #99ca3c!important;
 }
-.cid-so2nL6Joe7 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
 .cid-so2lt3iSY0 {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -2546,6 +2541,11 @@ a {
 }
 .cid-so2lt3iSY0 .foot-text {
   font-size: 1rem;
+}
+.cid-so2nL6Joe7 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
 .cid-so2lt3Fw33 .navbar-dropdown {
   position: relative !important;
