@@ -1116,7 +1116,7 @@ a {
 }
 @media (max-width: 991px) {
   .cid-smOqYMhghG .card-wrapper .card-content {
-    padding: 1rem 1rem 0;
+    padding: 0 2rem 2rem;
   }
   .cid-smOqYMhghG .card-wrapper .card-footer {
     padding: 0 1rem 1rem;
@@ -1989,7 +1989,7 @@ a {
   color: #99ca3c!important;
 }
 .cid-shUHYVgSjB .foot-text {
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 .cid-snR1bALdSG {
   background-image: url("../../../assets/images/pic1-5.jpg");
